@@ -1,0 +1,110 @@
+{
+  "imdata": [
+    {
+      "fvTenant": {
+        "attributes": {
+          "dn": "uni/tn-common",
+          "lcOwn": "local",
+          "ownerKey": "",
+          "name": "common",
+          "descr": "",
+          "extMngdBy": "",
+          "annotation": "",
+          "status": "",
+          "monPolDn": "uni/tn-common/monepg-default",
+          "modTs": "2022-02-28T17:36:10.364-05:00",
+          "ownerTag": "",
+          "rn": "tn-common",
+          "childAction": "",
+          "nameAlias": "",
+          "uid": "0"
+        }
+      }
+    },
+    {
+      "fvTenant": {
+        "attributes": {
+          "dn": "uni/tn-infra",
+          "lcOwn": "local",
+          "ownerKey": "",
+          "name": "infra",
+          "descr": "",
+          "extMngdBy": "",
+          "annotation": "",
+          "status": "",
+          "monPolDn": "uni/tn-common/monepg-default",
+          "modTs": "2022-02-28T17:36:16.415-05:00",
+          "ownerTag": "",
+          "rn": "tn-infra",
+          "childAction": "",
+          "nameAlias": "",
+          "uid": "0"
+        }
+      }
+    },
+    {
+      "fvTenant": {
+        "attributes": {
+          "dn": "uni/tn-mgmt",
+          "lcOwn": "local",
+          "ownerKey": "",
+          "name": "mgmt",
+          "descr": "",
+          "extMngdBy": "",
+          "annotation": "",
+          "status": "",
+          "monPolDn": "uni/tn-common/monepg-default",
+          "modTs": "2022-02-28T17:36:16.326-05:00",
+          "ownerTag": "",
+          "rn": "tn-mgmt",
+          "childAction": "",
+          "nameAlias": "",
+          "uid": "0"
+        }
+      }
+    },
+    {
+      "fvTenant": {
+        "attributes": {
+          "dn": "uni/tn-nh-1",
+          "lcOwn": "local",
+          "ownerKey": "",
+          "name": "nh-1",
+          "descr": "",
+          "extMngdBy": "",
+          "annotation": "",
+          "status": "",
+          "monPolDn": "uni/tn-common/monepg-default",
+          "modTs": "2022-06-14T13:57:14.871-05:00",
+          "ownerTag": "",
+          "rn": "tn-nh-1",
+          "childAction": "",
+          "nameAlias": "",
+          "uid": "15374"
+        }
+      }
+    },
+    {
+      "fvTenant": {
+        "attributes": {
+          "dn": "uni/tn-nh-2",
+          "lcOwn": "local",
+          "ownerKey": "",
+          "name": "nh-2",
+          "descr": "",
+          "extMngdBy": "",
+          "annotation": "",
+          "status": "",
+          "monPolDn": "uni/tn-common/monepg-default",
+          "modTs": "2022-06-14T13:57:21.174-05:00",
+          "ownerTag": "",
+          "rn": "tn-nh-2",
+          "childAction": "",
+          "nameAlias": "",
+          "uid": "15374"
+        }
+      }
+    }
+  ],
+  "totalCount": "5"
+}
